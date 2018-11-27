@@ -1182,6 +1182,7 @@ git rebase --onto <new_base> <old_base>
 # Useful links 
 
 [Merge vs Rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+[Learning Git Branching] https://github.com/pcottle/learnGitBranching
 
 <!-- Don’t remove or change the comment below – that can break automatic updates. More info at <http://npm.im/doxie.inject>. -->
 <!-- @doxie.inject end -->
