@@ -1182,8 +1182,10 @@ git rebase --onto <new_base> <old_base>
 # Useful links 
 
 [Merge vs Rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
-[Learning Git Branching] https://github.com/pcottle/learnGitBranching
-[Anti-Patterns] https://speakerdeck.com/lemiorhan/10-git-anti-patterns-you-should-be-aware-of?slide=60
+
+[Learning Git Branching](https://github.com/pcottle/learnGitBranching)
+
+[Anti-Patterns](https://speakerdeck.com/lemiorhan/10-git-anti-patterns-you-should-be-aware-of?slide=60)
 
 <!-- Don’t remove or change the comment below – that can break automatic updates. More info at <http://npm.im/doxie.inject>. -->
 <!-- @doxie.inject end -->
